@@ -38,8 +38,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Some of the keys were hard to obtain in order to advance to further challenges. 
 ## License
 
     Copyright [2025] [Ricky Li Ruan]
