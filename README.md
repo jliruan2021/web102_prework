@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 [![Watch this Video](https://img.youtube.com/vi/vhoJKEJGxwc/maxresdefault.jpg)](https://youtu.be/vhoJKEJGxwc)
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 
