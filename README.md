@@ -25,6 +25,7 @@ Here's a walkthrough of implemented features:
 [![Watch this Video](https://img.youtube.com/vi/vhoJKEJGxwc/maxresdefault.jpg)](https://youtu.be/vhoJKEJGxwc)
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![](https://github.com/jliruan2021/web102_prework/blob/main/GIFMaker_me-8.gif)
 
 
 
@@ -41,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Ricky Li Ruan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
